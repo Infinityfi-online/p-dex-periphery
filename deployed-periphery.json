@@ -1,0 +1,9 @@
+{
+  "networkName": "devnet",
+  "factory": "0x5f37a6Ea51351BBBED8bD7Ed78EBa923B8D60897",
+  "weth9": "0xe356046C34B8e989E6a311FE6478E2736937699D",
+  "swapRouter": "0x11F22a8a07215d1691175A67cDf6630E874Bb17b",
+  "nftDescriptor": "0x217755D961eAcD4f5dEcd922d8F3e3dFbe053E19",
+  "tokenDescriptor": "0xBa42231Bd6C12547dFe82dBA830B49581305fedD",
+  "positionManager": "0xA5ae22A0364c461Ee83868F12fc09616295925aA"
+}
